@@ -60,18 +60,6 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://note.godolphinx.org/english/words/2024-04-15-zh.html</loc>
-    <lastmod>2024-04-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://note.godolphinx.org/english/words/2024-04-16-zh.html</loc>
-    <lastmod>2024-04-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
 
   <!--写作-->
   <url>
