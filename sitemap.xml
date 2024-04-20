@@ -7,69 +7,69 @@
     <priority>1.0</priority>
   </url>
 
-  <!--逻辑-->
+  <!--logic-->
   <url>
-    <loc>https://note.godolphinx.org/logic/basic/1.conceptual-zh.html</loc>
+    <loc>https://note.godolphinx.org/logic/basic/1.conceptual-en.html</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://note.godolphinx.org/logic/advanced/2.talk-bluntly-judgement-zh.html</loc>
+    <loc>https://note.godolphinx.org/logic/advanced/2.straightforward-judgement-en.html</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://note.godolphinx.org/logic/advanced/3.talk-hypothetical-judgment-zh.html</loc>
+    <loc>https://note.godolphinx.org/logic/advanced/3.hypothetical-judgment-en.html</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://note.godolphinx.org/logic/advanced/4.talk-joint-and-selected-judgement-zh.html</loc>
+    <loc>https://note.godolphinx.org/logic/advanced/4.joint-selective-judgement-en.html</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://note.godolphinx.org/logic/advanced/1.hypothetical-joint-selected-judgment-zh.html</loc>
-    <lastmod>2024-04-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <!--数学-->
-  <url>
-    <loc>https://note.godolphinx.org/math/basic/1.arithmetic-zh.html</loc>
-    <lastmod>2024-04-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://note.godolphinx.org/math/advanced/1.guid-zh.html</loc>
+    <loc>https://note.godolphinx.org/logic/advanced/1.hypothetical-composition-selective-judgment-en.html</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!--英语-->
+  <!--math-->
   <url>
-    <loc>https://note.godolphinx.org/english/advanced/1.vocabularies-zh.html</loc>
+    <loc>https://note.godolphinx.org/math/basic/1.arithmetic-en.html</loc>
+    <lastmod>2024-04-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://note.godolphinx.org/math/advanced/1.math-guide-en.html</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!--写作-->
+  <!--english-->
   <url>
-    <loc>https://note.godolphinx.org/write/basic/1.expository-essay-zh.html</loc>
+    <loc>https://note.godolphinx.org/english/advanced/1.midrange-vocabularies-en.html</loc>
+    <lastmod>2024-04-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!--write-->
+  <url>
+    <loc>https://note.godolphinx.org/write/basic/1.expository-essay-en.html</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://note.godolphinx.org/write/advanced/1.argument-effectiveness-analysis-zh.html</loc>
+    <loc>https://note.godolphinx.org/write/advanced/1.argument-effectiveness-analysis-syllabus-explanation-en.html</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
